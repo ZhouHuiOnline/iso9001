@@ -1,0 +1,3 @@
+# User-agent: *
+# Allow: /9bdbaee46a21c9d409733a4ae65519be.txt
+# Disallow: /
