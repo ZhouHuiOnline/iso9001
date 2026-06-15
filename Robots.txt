@@ -1,8 +1,0 @@
-# 仅微信爬虫放行校验文件，其余全部拦截
-User-agent: WechatBot
-Allow: /9bdbaee46a21c9d409733a4ae65519be.txt
-Disallow: /
-
-# 所有其他爬虫，全站禁止抓取
-User-agent: *
-Disallow: /
